@@ -474,11 +474,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\user1\\Desktop\\core\\lesson1\\lesson1.csproj",
       "projectName": "lesson1",
       "projectPath": "C:\\Users\\user1\\Desktop\\core\\lesson1\\lesson1.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user1\\Desktop\\core\\lesson1\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\GitHub\\project1\\lesson1.csproj",
+      "projectName": "lesson1",
+      "projectPath": "C:\\Users\\user1\\Documents\\GitHub\\project1\\lesson1.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\GitHub\\project1\\obj\\",
+>>>>>>> 7a140d203b396872be0380fff730b1052e3360d8
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

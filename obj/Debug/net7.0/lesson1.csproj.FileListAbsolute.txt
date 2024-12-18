@@ -31,6 +31,7 @@ C:\Users\user1\Desktop\.Core\lesson1\obj\Debug\net7.0\refint\lesson1.dll
 C:\Users\user1\Desktop\.Core\lesson1\obj\Debug\net7.0\lesson1.pdb
 C:\Users\user1\Desktop\.Core\lesson1\obj\Debug\net7.0\lesson1.genruntimeconfig.cache
 C:\Users\user1\Desktop\.Core\lesson1\obj\Debug\net7.0\ref\lesson1.dll
+<<<<<<< HEAD
 C:\Users\user1\Desktop\lesson1\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\user1\Desktop\lesson1\bin\Debug\net7.0\appsettings.json
 C:\Users\user1\Desktop\lesson1\bin\Debug\net7.0\lesson1.exe
@@ -97,3 +98,38 @@ C:\Users\user1\Desktop\core\lesson1\obj\Debug\net7.0\refint\lesson1.dll
 C:\Users\user1\Desktop\core\lesson1\obj\Debug\net7.0\lesson1.pdb
 C:\Users\user1\Desktop\core\lesson1\obj\Debug\net7.0\lesson1.genruntimeconfig.cache
 C:\Users\user1\Desktop\core\lesson1\obj\Debug\net7.0\ref\lesson1.dll
+=======
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.AssemblyInfo.cs
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.dll
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\refint\lesson1.dll
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.pdb
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\lesson1.exe
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\lesson1.deps.json
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\lesson1.runtimeconfig.json
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\lesson1.dll
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\lesson1.pdb
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Documents\GitHub\project1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets\msbuild.lesson1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets\msbuild.build.lesson1.props
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lesson1.props
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lesson1.props
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\scopedcss\bundle\lesson1.styles.css
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.csproj.CopyComplete
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\lesson1.genruntimeconfig.cache
+C:\Users\user1\Documents\GitHub\project1\obj\Debug\net7.0\ref\lesson1.dll
+>>>>>>> 7a140d203b396872be0380fff730b1052e3360d8
